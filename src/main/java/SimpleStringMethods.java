@@ -29,7 +29,7 @@ public class SimpleStringMethods {
 
     /**
      * indexOf can be used to retrieve the index of the first character of a String, such as the position of character
-     * 'a' in banana, which would result in 1.
+     * 'a' in banana, which would result in 1.n
      * it returns -1 if the character does not exist.
      * @param s the String to be manipulated.
      * @param c a character within s...
