@@ -32,7 +32,7 @@ public class SimpleStringMethods {
      * 'a' in banana, which would result in 1.
      * it returns -1 if the character does not exist.
      * @param s the String to be manipulated.
-     * @param c a character within s.
+     * @param c a character within s...
      * @return the index of the first occurence of c within s.
      */
     public int indexOf(String s, char c){
